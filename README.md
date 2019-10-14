@@ -1,3 +1,3 @@
 # hello-world
-cpp to learn
-this is my first time 
+C++ to learn
+This is my first time.
